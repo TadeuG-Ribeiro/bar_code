@@ -1,0 +1,17 @@
+name: barcode_scan_fork
+description: barcode_scan_fork  this is forked from barcode_scan
+homepage: http://www.aaa.bbb
+version: 2.0.2
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+environment:
+  sdk: ">=2.0.0-dev.58.0 <3.0.0"
+
+flutter:
+  plugin:
+    androidPackage: de.mintware.barcode_scan
+    pluginClass: BarcodeScanPlugin
