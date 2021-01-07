@@ -1,7 +1,7 @@
-name: barcode_scan_fork
-description: barcode_scan_fork  this is forked from barcode_scan
+name: barcode_scan
+description: barcode_scan  this is forked from barcode_scan
 homepage: http://www.aaa.bbb
-version: 2.0.2
+version: 1.0.1
 
 
 dependencies:
